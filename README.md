@@ -49,6 +49,11 @@ Create 3d Tiles
 ```shell
 pg2b3dm -h localhost -U postgres -c geom -d postgres -t baarle_be_panden -a id -o baarle_be_panden --default_color #00ff00
 ```
+## Result
+
+https://bertt.github.io/baarle_nassau/demo/geoid/
+
+![image](https://github.com/user-attachments/assets/62e0f209-ca77-4370-b2ca-24f223d3a1da)
 
 ## Check
 
@@ -82,3 +87,8 @@ Altitude NL = 70.27569416553462
 Altitude BE = 70.43654769997616
 
 ## Result
+
+https://bertt.github.io/baarle_nassau/demo/ellipsoid/
+
+![image](https://github.com/user-attachments/assets/2d2bf784-1ec0-43c0-96db-4f273ec26577)
+
