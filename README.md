@@ -22,6 +22,8 @@ pg2b3dm -h localhost -U postgres -c geom -d postgres -t baarle_nl_panden -a iden
 
 ## Vlaanderen
 
+3D GRB? Maar aanmelden.. https://download.vlaanderen.be/product/971-3d-grb
+
 Download GRAR.zip from https://download.vlaanderen.be/product/10142-gebouwen-en-adressenregister (1.3 GB)
 
 Select Baaarle-Nassau buildings:
