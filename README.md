@@ -61,9 +61,13 @@ Cultuur centrum Baarle: Pastoor de Katerstraat 5- 7 Baarle-Hertog, Pastoor de Ka
 
 NL: identificatie = 'NL.IMBAG.Pand.0744100000000249'
 
+![image](https://github.com/user-attachments/assets/fe5ff2ce-76ff-4803-8722-d9901b88a521)
+
 Altitude = 26.009000778198242
 
 BE: id = https://data.vlaanderen.be/id/gebouw/16500761
+
+![image](https://github.com/user-attachments/assets/5b7388f0-0a5a-4cf4-9e27-ed2ad66000f2)
 
 Altitude = 28.540000915527344
 
